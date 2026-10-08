@@ -1,0 +1,55 @@
+{
+ "scenario": "chamber_1",
+ "duration_frames": 362,
+ "events": [
+  {
+   "frame": 20,
+   "type": "key_down",
+   "keycode": "E"
+  },
+  {
+   "frame": 21,
+   "type": "key_up",
+   "keycode": "E"
+  },
+  {
+   "frame": 50,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 90,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 102,
+   "type": "key_press",
+   "keycode": "R"
+  },
+  {
+   "frame": 138,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 158,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 300,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 330,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 361,
+   "type": "wait"
+  }
+ ]
+}

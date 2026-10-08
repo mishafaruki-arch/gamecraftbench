@@ -1,0 +1,1226 @@
+[
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "M1",
+    "score": 0.8,
+    "rationale": "The robot visibly walks, jumps, lands on a platform, and collides with terrain, though wall-stopping is not clearly tested.",
+    "raw": "{\"scores\":{\"M1\":0.8,\"M2\":0.0,\"M3\":0.0,\"M4\":0.0,\"M5\":0.0,\"D1\":0.0,\"D2\":0.0,\"D3\":0.0,\"D4\":0.0,\"V1\":0.9,\"V2\":0.0,\"V3\":0.5,\"V4\":1.0,\"A1\":0.9,\"A2\":0.9,\"A3\":0.45,\"A4\":0.9},\"rationales\":{\"M1\":\"The robot visibly walks, jumps, lands on a platform, and collides with terrain, though wall-stopping is not clearly tested.\",\"M2\":\"A timer is visible and counts down, but no loop ending, rewind, reset, or echo creation occurs.\",\"M3\":\"No echo appears during gameplay, so replay accuracy is not demonstrated.\",\"M4\":\"The live player opens the door with the plate, but no echo operates any device.\",\"M5\":\"No echo blocking, glitching, paradox screen, stability loss, or chamber restart is shown.\",\"D1\":\"The first chamber is not solved with an echo holding the plate and no clear screen appears.\",\"D2\":\"No lift chamber or lift solution is shown.\",\"D3\":\"No final chamber, two-echo plate puzzle, laser route, vault opening, or victory screen is shown.\",\"D4\":\"No laser contact, stability loss from hazards, defeat screen, or retry flow is shown.\",\"V1\":\"The gameplay HUD shows chamber name, timer, loop count, echo count, and stability with the timer updating.\",\"V2\":\"No gameplay echo is visible, so echo readability and distinction are not demonstrated.\",\"V3\":\"The plate, door, open state, and yellow link wire are readable, but lift and laser states are not shown.\",\"V4\":\"The title and chamber intro screens are strongly themed, clearly labeled, and include prompts.\",\"A1\":\"The visible game has a coherent industrial sci-fi palette, typography, HUD, and illustrated assets.\",\"A2\":\"The chamber uses tiled terrain, background panels, ladders, lamps, and decorative machinery rather than flat blocks.\",\"A3\":\"Player movement and some UI transitions animate, but rewinds, echo trails, lift motion, laser flicker, and many device animations are not shown.\",\"A4\":\"Menus and overlays use polished themed fonts, panels, and sci-fi presentation rather than default widgets.\"}}",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A timer is visible and counts down, but no loop ending, rewind, reset, or echo creation occurs.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "M3",
+    "score": 0.0,
+    "rationale": "No echo appears during gameplay, so replay accuracy is not demonstrated.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "The live player opens the door with the plate, but no echo operates any device.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No echo blocking, glitching, paradox screen, stability loss, or chamber restart is shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not solved with an echo holding the plate and no clear screen appears.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift chamber or lift solution is shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, two-echo plate puzzle, laser route, vault opening, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "No laser contact, stability loss from hazards, defeat screen, or retry flow is shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "V1",
+    "score": 0.9,
+    "rationale": "The gameplay HUD shows chamber name, timer, loop count, echo count, and stability with the timer updating.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "V2",
+    "score": 0.0,
+    "rationale": "No gameplay echo is visible, so echo readability and distinction are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "V3",
+    "score": 0.5,
+    "rationale": "The plate, door, open state, and yellow link wire are readable, but lift and laser states are not shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "V4",
+    "score": 1.0,
+    "rationale": "The title and chamber intro screens are strongly themed, clearly labeled, and include prompts.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The visible game has a coherent industrial sci-fi palette, typography, HUD, and illustrated assets.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "A2",
+    "score": 0.9,
+    "rationale": "The chamber uses tiled terrain, background panels, ladders, lamps, and decorative machinery rather than flat blocks.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "A3",
+    "score": 0.45,
+    "rationale": "Player movement and some UI transitions animate, but rewinds, echo trails, lift motion, laser flicker, and many device animations are not shown.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "01_title_flow",
+    "requirement_id": "A4",
+    "score": 0.9,
+    "rationale": "Menus and overlays use polished themed fonts, panels, and sci-fi presentation rather than default widgets.",
+    "raw": "",
+    "latency_seconds": 21.154
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "M1",
+    "score": 0.75,
+    "rationale": "The robot visibly moves, jumps, and lands on illustrated floors and a platform, though wall stopping and pose changes are only weakly shown.",
+    "raw": "{\n  \"scores\": {\n    \"M1\": 0.75,\n    \"M2\": 0.0,\n    \"M3\": 0.0,\n    \"M4\": 0.0,\n    \"M5\": 0.0,\n    \"D1\": 0.0,\n    \"D2\": 0.0,\n    \"D3\": 0.0,\n    \"D4\": 0.0,\n    \"V1\": 0.9,\n    \"V2\": 0.0,\n    \"V3\": 0.5,\n    \"V4\": 0.0,\n    \"A1\": 0.8,\n    \"A2\": 0.9,\n    \"A3\": 0.45,\n    \"A4\": 0.35\n  },\n  \"rationales\": {\n    \"M1\": \"The robot visibly moves, jumps, and lands on illustrated floors and a platform, though wall stopping and pose changes are only weakly shown.\",\n    \"M2\": \"A loop timer counts down, but no loop ending, rewind, reset, or echo creation occurs.\",\n    \"M3\": \"No echo appears in the recording.\",\n    \"M4\": \"The live player opens a linked door by standing on a plate, but no echo operates any device.\",\n    \"M5\": \"No echo blocking, glitching, paradox screen, stability drop, or restart is shown.\",\n    \"D1\": \"The first chamber is not solved by an echo holding the plate, and no clear screen appears.\",\n    \"D2\": \"No lift chamber solution or player riding a lift to an exit is shown.\",\n    \"D3\": \"No final chamber, two-echo plate solution, laser avoidance, vault opening, or victory screen is shown.\",\n    \"D4\": \"No laser contact, stability loss, defeat screen, or retry flow is demonstrated.\",\n    \"V1\": \"The HUD clearly shows chamber name, timer, loop count, echo count, and stability with the timer updating.\",\n    \"V2\": \"No echoes are visible, so visual distinction cannot be demonstrated.\",\n    \"V3\": \"The plate-to-door link and door state are readable, but lift and laser states are not demonstrated.\",\n    \"V4\": \"No styled non-gameplay screen appears in the sampled recording.\",\n    \"A1\": \"The visible gameplay has a coherent industrial sci-fi pixel-art style with matching HUD and devices.\",\n    \"A2\": \"The chamber is authored with tiled borders, layered background, ladders, signs, and decorative machinery.\",\n    \"A3\": \"Player movement and the plate or door state are visible, but many required animations such as rewind, trails, lift, and laser are absent.\",\n    \"A4\": \"The HUD overlay is themed, but menus, result screens, and smooth screen transitions are not shown.\"\n  }\n}",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A loop timer counts down, but no loop ending, rewind, reset, or echo creation occurs.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "M3",
+    "score": 0.0,
+    "rationale": "No echo appears in the recording.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "The live player opens a linked door by standing on a plate, but no echo operates any device.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No echo blocking, glitching, paradox screen, stability drop, or restart is shown.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not solved by an echo holding the plate, and no clear screen appears.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift chamber solution or player riding a lift to an exit is shown.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, two-echo plate solution, laser avoidance, vault opening, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "No laser contact, stability loss, defeat screen, or retry flow is demonstrated.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "V1",
+    "score": 0.9,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability with the timer updating.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "V2",
+    "score": 0.0,
+    "rationale": "No echoes are visible, so visual distinction cannot be demonstrated.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "V3",
+    "score": 0.5,
+    "rationale": "The plate-to-door link and door state are readable, but lift and laser states are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "V4",
+    "score": 0.0,
+    "rationale": "No styled non-gameplay screen appears in the sampled recording.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "A1",
+    "score": 0.8,
+    "rationale": "The visible gameplay has a coherent industrial sci-fi pixel-art style with matching HUD and devices.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "A2",
+    "score": 0.9,
+    "rationale": "The chamber is authored with tiled borders, layered background, ladders, signs, and decorative machinery.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "A3",
+    "score": 0.45,
+    "rationale": "Player movement and the plate or door state are visible, but many required animations such as rewind, trails, lift, and laser are absent.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "02_chamber1",
+    "requirement_id": "A4",
+    "score": 0.35,
+    "rationale": "The HUD overlay is themed, but menus, result screens, and smooth screen transitions are not shown.",
+    "raw": "",
+    "latency_seconds": 19.215
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "M1",
+    "score": 0.75,
+    "rationale": "The robot runs, jumps, falls, and lands on platforms, though wall stopping and distinct run poses are not clearly shown.",
+    "raw": "{\n  \"scores\": {\n    \"M1\": 0.75,\n    \"M2\": 1.0,\n    \"M3\": 0.85,\n    \"M4\": 1.0,\n    \"M5\": 0.0,\n    \"D1\": 0.0,\n    \"D2\": 0.9,\n    \"D3\": 0.0,\n    \"D4\": 0.0,\n    \"V1\": 1.0,\n    \"V2\": 0.7,\n    \"V3\": 0.55,\n    \"V4\": 0.0,\n    \"A1\": 0.9,\n    \"A2\": 0.95,\n    \"A3\": 0.75,\n    \"A4\": 0.45\n  },\n  \"rationales\": {\n    \"M1\": \"The robot runs, jumps, falls, and lands on platforms, though wall stopping and distinct run poses are not clearly shown.\",\n    \"M2\": \"The visible timer counts down, a rewind wave plays, the player resets to the entrance, loop count advances, and an echo is created.\",\n    \"M3\": \"The echo appears to replay the prior route to the plate and then remains frozen there, but exact timing fidelity is only partially verifiable.\",\n    \"M4\": \"The echo holds the plate, the linked lift moves, and the live player rides it upward.\",\n    \"M5\": \"No paradox, blocking of an echo, stability loss, PARADOX screen, or restart is shown.\",\n    \"D1\": \"The recording shows chamber 02, not the first chamber being solved with one echo and a clear screen.\",\n    \"D2\": \"The echo powers the lift and the live player rides it up to the high exit area, though no completion screen is shown.\",\n    \"D3\": \"No final chamber, two-echo vault door, laser route, or victory screen is shown.\",\n    \"D4\": \"No laser contact, stability-loss failure sequence, defeat screen, or retry is shown.\",\n    \"V1\": \"The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and the values update.\",\n    \"V2\": \"The echo is translucent and numbered, but only one echo appears so distinction between multiple echoes is not demonstrated.\",\n    \"V3\": \"The plate-to-lift interaction is readable, but doors, lasers, and all device links or on/off states are not fully demonstrated.\",\n    \"V4\": \"No non-gameplay title, clear, paradox, defeat, or victory screen appears in the recording.\",\n    \"A1\": \"The scene has a coherent industrial sci-fi style with matching HUD, devices, tiled vault art, and rewind effects.\",\n    \"A2\": \"The chamber uses authored tiled terrain, background panels, ladders, hazard-like edge pieces, and decorative machinery.\",\n    \"A3\": \"Movement, jumping, rewind, echo replay, and lift travel animate over multiple frames, though some character/device animation is subtle.\",\n    \"A4\": \"The HUD and prompt styling are themed, but no polished menus or result screens are visible.\"\n  }\n}",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "M2",
+    "score": 1.0,
+    "rationale": "The visible timer counts down, a rewind wave plays, the player resets to the entrance, loop count advances, and an echo is created.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "M3",
+    "score": 0.85,
+    "rationale": "The echo appears to replay the prior route to the plate and then remains frozen there, but exact timing fidelity is only partially verifiable.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "M4",
+    "score": 1.0,
+    "rationale": "The echo holds the plate, the linked lift moves, and the live player rides it upward.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No paradox, blocking of an echo, stability loss, PARADOX screen, or restart is shown.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The recording shows chamber 02, not the first chamber being solved with one echo and a clear screen.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "D2",
+    "score": 0.9,
+    "rationale": "The echo powers the lift and the live player rides it up to the high exit area, though no completion screen is shown.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, two-echo vault door, laser route, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "No laser contact, stability-loss failure sequence, defeat screen, or retry is shown.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "V1",
+    "score": 1.0,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and the values update.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "V2",
+    "score": 0.7,
+    "rationale": "The echo is translucent and numbered, but only one echo appears so distinction between multiple echoes is not demonstrated.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "V3",
+    "score": 0.55,
+    "rationale": "The plate-to-lift interaction is readable, but doors, lasers, and all device links or on/off states are not fully demonstrated.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "V4",
+    "score": 0.0,
+    "rationale": "No non-gameplay title, clear, paradox, defeat, or victory screen appears in the recording.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The scene has a coherent industrial sci-fi style with matching HUD, devices, tiled vault art, and rewind effects.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "A2",
+    "score": 0.95,
+    "rationale": "The chamber uses authored tiled terrain, background panels, ladders, hazard-like edge pieces, and decorative machinery.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "A3",
+    "score": 0.75,
+    "rationale": "Movement, jumping, rewind, echo replay, and lift travel animate over multiple frames, though some character/device animation is subtle.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "03_chamber2",
+    "requirement_id": "A4",
+    "score": 0.45,
+    "rationale": "The HUD and prompt styling are themed, but no polished menus or result screens are visible.",
+    "raw": "",
+    "latency_seconds": 24.145
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "M1",
+    "score": 0.8,
+    "rationale": "The robot visibly jumps, falls, moves across authored platforms, and lands with collision, though wall stopping and full pose-set animation are not clearly shown.",
+    "raw": "{\"scores\":{\"M1\":0.8,\"M2\":0.0,\"M3\":0.0,\"M4\":0.0,\"M5\":0.0,\"D1\":0.0,\"D2\":0.0,\"D3\":0.0,\"D4\":0.0,\"V1\":0.9,\"V2\":0.0,\"V3\":0.55,\"V4\":0.0,\"A1\":0.85,\"A2\":0.95,\"A3\":0.45,\"A4\":0.35},\"rationales\":{\"M1\":\"The robot visibly jumps, falls, moves across authored platforms, and lands with collision, though wall stopping and full pose-set animation are not clearly shown.\",\"M2\":\"A loop timer counts down, but no loop ends, rewind occurs, reset happens, or echo is created.\",\"M3\":\"No echo appears in the recording.\",\"M4\":\"No echo operates any device for the live player.\",\"M5\":\"No paradox interaction, glitch, stability drop, or restart is shown.\",\"D1\":\"The first chamber is not shown or solved by an echo holding a plate.\",\"D2\":\"No lift-chamber solution with an echo-held plate and ridden lift is shown.\",\"D3\":\"This final chamber is not solved, with no two echoes, vault opening, exit, or victory screen.\",\"D4\":\"The laser is present, but the player never touches it and no stability loss, defeat screen, or retry is shown.\",\"V1\":\"The HUD clearly shows chamber name, timer, loop count, echo count, and stability with styled sci-fi presentation, and the timer updates.\",\"V2\":\"No echoes are visible, so visual distinction between echoes and player is not demonstrated.\",\"V3\":\"The laser state and some colored links are readable, but plate and device state/link relationships are only partially clear.\",\"V4\":\"No non-gameplay screens appear in the recording.\",\"A1\":\"The visible chamber and HUD share a coherent industrial sci-fi vault style with consistent colors and typography.\",\"A2\":\"The chamber has authored tiled terrain, layered background panels, decorative ladders, arrows, hazards, and themed borders.\",\"A3\":\"Player movement and laser cycling animate over frames, but rewinds, echo trails, plates, doors, lifts, and screen transitions are not shown.\",\"A4\":\"The HUD overlay is themed, but menus, intro cards, result screens, and transitions are not demonstrated.\"}}",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A loop timer counts down, but no loop ends, rewind occurs, reset happens, or echo is created.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "M3",
+    "score": 0.0,
+    "rationale": "No echo appears in the recording.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "No echo operates any device for the live player.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No paradox interaction, glitch, stability drop, or restart is shown.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not shown or solved by an echo holding a plate.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift-chamber solution with an echo-held plate and ridden lift is shown.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "This final chamber is not solved, with no two echoes, vault opening, exit, or victory screen.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "The laser is present, but the player never touches it and no stability loss, defeat screen, or retry is shown.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "V1",
+    "score": 0.9,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability with styled sci-fi presentation, and the timer updates.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "V2",
+    "score": 0.0,
+    "rationale": "No echoes are visible, so visual distinction between echoes and player is not demonstrated.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "V3",
+    "score": 0.55,
+    "rationale": "The laser state and some colored links are readable, but plate and device state/link relationships are only partially clear.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "V4",
+    "score": 0.0,
+    "rationale": "No non-gameplay screens appear in the recording.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "A1",
+    "score": 0.85,
+    "rationale": "The visible chamber and HUD share a coherent industrial sci-fi vault style with consistent colors and typography.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "A2",
+    "score": 0.95,
+    "rationale": "The chamber has authored tiled terrain, layered background panels, decorative ladders, arrows, hazards, and themed borders.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "A3",
+    "score": 0.45,
+    "rationale": "Player movement and laser cycling animate over frames, but rewinds, echo trails, plates, doors, lifts, and screen transitions are not shown.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "04_chamber3",
+    "requirement_id": "A4",
+    "score": 0.35,
+    "rationale": "The HUD overlay is themed, but menus, intro cards, result screens, and transitions are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 22.946
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "M1",
+    "score": 0.25,
+    "rationale": "The player moves along the floor in an authored chamber, but no jump, landing, wall stop, or clear pose changes are shown.",
+    "raw": "{\"scores\":{\"M1\":0.25,\"M2\":0.2,\"M3\":0.15,\"M4\":0,\"M5\":0.8,\"D1\":0,\"D2\":0,\"D3\":0,\"D4\":0,\"V1\":0.95,\"V2\":0.6,\"V3\":0.55,\"V4\":0.95,\"A1\":0.9,\"A2\":1,\"A3\":0.35,\"A4\":0.85},\"rationales\":{\"M1\":\"The player moves along the floor in an authored chamber, but no jump, landing, wall stop, or clear pose changes are shown.\",\"M2\":\"A loop timer is visible and counting down, but no normal loop end, rewind, entrance return, or new echo creation is shown.\",\"M3\":\"A translucent echo appears, but its exact replay path and final frozen state are not demonstrated.\",\"M4\":\"No echo is shown operating a device that the live player then uses.\",\"M5\":\"The live player overlaps the echo and a styled PARADOX screen stops play with a stability loss and restart message, though the post-reset state is not shown.\",\"D1\":\"The first chamber is not solved by an echo holding the plate in this recording.\",\"D2\":\"No lift-chamber solution or lift ride is shown.\",\"D3\":\"No final chamber, dual-echo plate solution, laser avoidance, vault opening, or victory screen is shown.\",\"D4\":\"No laser hit, defeat screen, or retry flow is shown.\",\"V1\":\"The HUD shows chamber name, timer, loop count, echo count, and stability, with the timer visibly updating.\",\"V2\":\"The echo is translucent and visually distinct from the live player, but multiple echoes and robust overlap readability are not demonstrated.\",\"V3\":\"Plates, doors, and yellow wiring are readable, but device on/off changes are not clearly demonstrated.\",\"V4\":\"The PARADOX overlay is clearly labeled with themed typography, paneling, and a restart prompt.\",\"A1\":\"The visible art direction is cohesive industrial sci-fi with matching palette, pixel font, devices, HUD, and overlay style.\",\"A2\":\"The chamber has authored tiled terrain, background panels, props, arrows, machinery, and recognizable sci-fi theming.\",\"A3\":\"Only limited character movement and overlay presentation are visible, with no demonstrated rewind, door, lift, plate, or laser animation.\",\"A4\":\"The HUD and PARADOX overlay use themed fonts and panels rather than default widgets, though smooth transitions are only partly visible.\"}}",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "M2",
+    "score": 0.2,
+    "rationale": "A loop timer is visible and counting down, but no normal loop end, rewind, entrance return, or new echo creation is shown.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "M3",
+    "score": 0.15,
+    "rationale": "A translucent echo appears, but its exact replay path and final frozen state are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "No echo is shown operating a device that the live player then uses.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "M5",
+    "score": 0.8,
+    "rationale": "The live player overlaps the echo and a styled PARADOX screen stops play with a stability loss and restart message, though the post-reset state is not shown.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not solved by an echo holding the plate in this recording.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift-chamber solution or lift ride is shown.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, dual-echo plate solution, laser avoidance, vault opening, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "No laser hit, defeat screen, or retry flow is shown.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "V1",
+    "score": 0.95,
+    "rationale": "The HUD shows chamber name, timer, loop count, echo count, and stability, with the timer visibly updating.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "V2",
+    "score": 0.6,
+    "rationale": "The echo is translucent and visually distinct from the live player, but multiple echoes and robust overlap readability are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "V3",
+    "score": 0.55,
+    "rationale": "Plates, doors, and yellow wiring are readable, but device on/off changes are not clearly demonstrated.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "V4",
+    "score": 0.95,
+    "rationale": "The PARADOX overlay is clearly labeled with themed typography, paneling, and a restart prompt.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The visible art direction is cohesive industrial sci-fi with matching palette, pixel font, devices, HUD, and overlay style.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "A2",
+    "score": 1.0,
+    "rationale": "The chamber has authored tiled terrain, background panels, props, arrows, machinery, and recognizable sci-fi theming.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "A3",
+    "score": 0.35,
+    "rationale": "Only limited character movement and overlay presentation are visible, with no demonstrated rewind, door, lift, plate, or laser animation.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "05_paradox",
+    "requirement_id": "A4",
+    "score": 0.85,
+    "rationale": "The HUD and PARADOX overlay use themed fonts and panels rather than default widgets, though smooth transitions are only partly visible.",
+    "raw": "",
+    "latency_seconds": 27.053
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "M1",
+    "score": 0.3,
+    "rationale": "The player moves along solid ground in an authored side-view chamber, but no jumping, landing, wall stopping, or pose changes are shown.",
+    "raw": "{\n  \"scores\": {\n    \"M1\": 0.3,\n    \"M2\": 0.0,\n    \"M3\": 0.0,\n    \"M4\": 0.0,\n    \"M5\": 0.0,\n    \"D1\": 0.0,\n    \"D2\": 0.0,\n    \"D3\": 0.0,\n    \"D4\": 0.0,\n    \"V1\": 1.0,\n    \"V2\": 0.0,\n    \"V3\": 0.5,\n    \"V4\": 0.0,\n    \"A1\": 0.9,\n    \"A2\": 1.0,\n    \"A3\": 0.45,\n    \"A4\": 0.4\n  },\n  \"rationales\": {\n    \"M1\": \"The player moves along solid ground in an authored side-view chamber, but no jumping, landing, wall stopping, or pose changes are shown.\",\n    \"M2\": \"A loop timer is visible and updating, but no loop end, rewind, reset, or echo creation occurs.\",\n    \"M3\": \"No echo appears in the recording.\",\n    \"M4\": \"No echo triggers any device for the live player to use.\",\n    \"M5\": \"No echo blocking, glitching, PARADOX screen, stability loss, or chamber restart is shown.\",\n    \"D1\": \"The first chamber is not shown or solved by an echo holding a plate.\",\n    \"D2\": \"No lift chamber solution is demonstrated.\",\n    \"D3\": \"The visible vault chamber is not solved, and no two echoes hold plates or victory screen appears.\",\n    \"D4\": \"The laser is present, but no hazard contact, stability loss, defeat screen, or retry is shown.\",\n    \"V1\": \"The HUD clearly shows chamber name, timer, loop count, echo count, and stability with styled sci-fi presentation.\",\n    \"V2\": \"No echoes are visible, so their distinctness cannot be demonstrated.\",\n    \"V3\": \"The laser state and colored wiring are readable, but plate, door, and lift state changes are not clearly demonstrated.\",\n    \"V4\": \"No non-play screen appears in the sampled recording.\",\n    \"A1\": \"The visible game has a coherent industrial sci-fi vault look with consistent pixel art, palette, and HUD styling.\",\n    \"A2\": \"The chamber is clearly authored with tiled terrain, background layers, hazards, ladders, pipes, gears, and decorative structure.\",\n    \"A3\": \"The player position and laser cycle animate over time, but many required animations such as rewind, doors, lifts, plates, and transitions are absent.\",\n    \"A4\": \"The visible HUD uses themed fonts and panels, but no menus or result overlays are shown.\"\n  }\n}",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A loop timer is visible and updating, but no loop end, rewind, reset, or echo creation occurs.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "M3",
+    "score": 0.0,
+    "rationale": "No echo appears in the recording.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "No echo triggers any device for the live player to use.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No echo blocking, glitching, PARADOX screen, stability loss, or chamber restart is shown.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not shown or solved by an echo holding a plate.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift chamber solution is demonstrated.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "The visible vault chamber is not solved, and no two echoes hold plates or victory screen appears.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "The laser is present, but no hazard contact, stability loss, defeat screen, or retry is shown.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "V1",
+    "score": 1.0,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability with styled sci-fi presentation.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "V2",
+    "score": 0.0,
+    "rationale": "No echoes are visible, so their distinctness cannot be demonstrated.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "V3",
+    "score": 0.5,
+    "rationale": "The laser state and colored wiring are readable, but plate, door, and lift state changes are not clearly demonstrated.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "V4",
+    "score": 0.0,
+    "rationale": "No non-play screen appears in the sampled recording.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The visible game has a coherent industrial sci-fi vault look with consistent pixel art, palette, and HUD styling.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "A2",
+    "score": 1.0,
+    "rationale": "The chamber is clearly authored with tiled terrain, background layers, hazards, ladders, pipes, gears, and decorative structure.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "A3",
+    "score": 0.45,
+    "rationale": "The player position and laser cycle animate over time, but many required animations such as rewind, doors, lifts, plates, and transitions are absent.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "06_laser",
+    "requirement_id": "A4",
+    "score": 0.4,
+    "rationale": "The visible HUD uses themed fonts and panels, but no menus or result overlays are shown.",
+    "raw": "",
+    "latency_seconds": 18.765
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "M1",
+    "score": 0.35,
+    "rationale": "The side-view chamber has solid platforms and gravity-like movement, but the live cube shows no clear standing/running/jumping pose changes.",
+    "raw": "{\"scores\":{\"M1\":0.35,\"M2\":0.0,\"M3\":0.75,\"M4\":0.0,\"M5\":0.8,\"D1\":0.0,\"D2\":0.0,\"D3\":0.0,\"D4\":0.45,\"V1\":1.0,\"V2\":0.9,\"V3\":0.75,\"V4\":0.9,\"A1\":0.9,\"A2\":0.95,\"A3\":0.75,\"A4\":0.85},\"rationales\":{\"M1\":\"The side-view chamber has solid platforms and gravity-like movement, but the live cube shows no clear standing/running/jumping pose changes.\",\"M2\":\"A timer and rewind-like reset are visible, but no timed loop completion creates a new echo in this recording.\",\"M3\":\"Existing numbered echoes visibly replay consistent routes after reset, though exact full-loop recording and final freeze are only partly shown.\",\"M4\":\"An echo appears to hold a plate, but the live player does not successfully use the opened device or benefit from it.\",\"M5\":\"Blocking an echo triggers a red PARADOX overlay with a stability penalty and stopped play, though the full no-echo restart is not shown.\",\"D1\":\"The first chamber one-echo plate-and-door solution is not shown.\",\"D2\":\"The lift chamber is not shown or solved.\",\"D3\":\"The final chamber is not solved, the vault does not open, and no victory screen appears.\",\"D4\":\"Touching the laser costs stability and restarts the loop, but zero-stability defeat and retry are not demonstrated.\",\"V1\":\"The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and values update.\",\"V2\":\"Echoes are translucent blue, numbered, and visually distinct from the grey live player.\",\"V3\":\"Plates, wires, laser cycling, and door state are readable, though some device links are not fully unambiguous and no lift is present.\",\"V4\":\"The PARADOX overlay is styled with a themed heading, panel, and retry prompt.\",\"A1\":\"The visuals are cohesive industrial sci-fi with matching palette, HUD, hazards, echoes, and time effects.\",\"A2\":\"The chamber uses authored tiles, background panels, ladders, lamps, arrows, and decorative machinery.\",\"A3\":\"Laser cycling, echo motion, rewind distortion, door states, and overlays animate, but character animation is limited.\",\"A4\":\"HUD panels and the PARADOX screen use themed fonts and panels rather than default Godot widgets.\"}}",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A timer and rewind-like reset are visible, but no timed loop completion creates a new echo in this recording.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "M3",
+    "score": 0.75,
+    "rationale": "Existing numbered echoes visibly replay consistent routes after reset, though exact full-loop recording and final freeze are only partly shown.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "An echo appears to hold a plate, but the live player does not successfully use the opened device or benefit from it.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "M5",
+    "score": 0.8,
+    "rationale": "Blocking an echo triggers a red PARADOX overlay with a stability penalty and stopped play, though the full no-echo restart is not shown.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber one-echo plate-and-door solution is not shown.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "The lift chamber is not shown or solved.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "The final chamber is not solved, the vault does not open, and no victory screen appears.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "D4",
+    "score": 0.45,
+    "rationale": "Touching the laser costs stability and restarts the loop, but zero-stability defeat and retry are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "V1",
+    "score": 1.0,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and values update.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "V2",
+    "score": 0.9,
+    "rationale": "Echoes are translucent blue, numbered, and visually distinct from the grey live player.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "V3",
+    "score": 0.75,
+    "rationale": "Plates, wires, laser cycling, and door state are readable, though some device links are not fully unambiguous and no lift is present.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "V4",
+    "score": 0.9,
+    "rationale": "The PARADOX overlay is styled with a themed heading, panel, and retry prompt.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The visuals are cohesive industrial sci-fi with matching palette, HUD, hazards, echoes, and time effects.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "A2",
+    "score": 0.95,
+    "rationale": "The chamber uses authored tiles, background panels, ladders, lamps, arrows, and decorative machinery.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "A3",
+    "score": 0.75,
+    "rationale": "Laser cycling, echo motion, rewind distortion, door states, and overlays animate, but character animation is limited.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "07_victory",
+    "requirement_id": "A4",
+    "score": 0.85,
+    "rationale": "HUD panels and the PARADOX screen use themed fonts and panels rather than default Godot widgets.",
+    "raw": "",
+    "latency_seconds": 27.511
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "M1",
+    "score": 0.25,
+    "rationale": "The player moves along the floor in an authored chamber, but no jumping, landing, wall stopping, or pose changes are shown.",
+    "raw": "{\"scores\":{\"M1\":0.25,\"M2\":0.0,\"M3\":0.2,\"M4\":0.0,\"M5\":0.0,\"D1\":0.0,\"D2\":0.0,\"D3\":0.0,\"D4\":0.25,\"V1\":0.85,\"V2\":0.45,\"V3\":0.55,\"V4\":0.9,\"A1\":0.9,\"A2\":0.95,\"A3\":0.35,\"A4\":0.85},\"rationales\":{\"M1\":\"The player moves along the floor in an authored chamber, but no jumping, landing, wall stopping, or pose changes are shown.\",\"M2\":\"A timer and collapse screen appear, but no rewind, entrance reset, or new echo creation is demonstrated.\",\"M3\":\"A translucent echo-like character is visible, but no exact replay path or timing is shown.\",\"M4\":\"No visible echo-triggered device is used by the live player.\",\"M5\":\"No paradox, echo blocking, stability loss from paradox, or first-loop restart is shown.\",\"D1\":\"The first chamber is not solved by an echo holding the plate and no clear screen appears.\",\"D2\":\"No lift-chamber solution or live player riding a moving lift is demonstrated.\",\"D3\":\"No final chamber, two-echo plate solution, laser avoidance route, or victory screen is shown.\",\"D4\":\"A defeat screen and retry flow are visible, but laser damage and stability loss are not demonstrated.\",\"V1\":\"The HUD shows chamber name, timer, loop count, echo count, and stability, with the timer visibly updating.\",\"V2\":\"The visible echo is translucent and distinct from the player, but multiple echoes and overlap readability are not demonstrated.\",\"V3\":\"Devices and yellow links are visible, but on/off state changes are not clearly demonstrated.\",\"V4\":\"The collapse and chamber intro overlays use themed fonts, headings, buttons, and prompts.\",\"A1\":\"The visible game has a coherent industrial sci-fi pixel-art style across chamber, HUD, and overlays.\",\"A2\":\"The chamber has authored tiles, borders, background detail, machinery-like props, and a consistent vault theme.\",\"A3\":\"Only limited player movement and screen fading are visible; rewinds, devices, lasers, and richer character animation are not shown.\",\"A4\":\"Menus and overlays are polished with custom typography, dimming, styled buttons, and smooth presentation.\"}}",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "M2",
+    "score": 0.0,
+    "rationale": "A timer and collapse screen appear, but no rewind, entrance reset, or new echo creation is demonstrated.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "M3",
+    "score": 0.2,
+    "rationale": "A translucent echo-like character is visible, but no exact replay path or timing is shown.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "No visible echo-triggered device is used by the live player.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No paradox, echo blocking, stability loss from paradox, or first-loop restart is shown.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The first chamber is not solved by an echo holding the plate and no clear screen appears.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "No lift-chamber solution or live player riding a moving lift is demonstrated.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, two-echo plate solution, laser avoidance route, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "D4",
+    "score": 0.25,
+    "rationale": "A defeat screen and retry flow are visible, but laser damage and stability loss are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "V1",
+    "score": 0.85,
+    "rationale": "The HUD shows chamber name, timer, loop count, echo count, and stability, with the timer visibly updating.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "V2",
+    "score": 0.45,
+    "rationale": "The visible echo is translucent and distinct from the player, but multiple echoes and overlap readability are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "V3",
+    "score": 0.55,
+    "rationale": "Devices and yellow links are visible, but on/off state changes are not clearly demonstrated.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "V4",
+    "score": 0.9,
+    "rationale": "The collapse and chamber intro overlays use themed fonts, headings, buttons, and prompts.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "A1",
+    "score": 0.9,
+    "rationale": "The visible game has a coherent industrial sci-fi pixel-art style across chamber, HUD, and overlays.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "A2",
+    "score": 0.95,
+    "rationale": "The chamber has authored tiles, borders, background detail, machinery-like props, and a consistent vault theme.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "A3",
+    "score": 0.35,
+    "rationale": "Only limited player movement and screen fading are visible; rewinds, devices, lasers, and richer character animation are not shown.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "08_defeat",
+    "requirement_id": "A4",
+    "score": 0.85,
+    "rationale": "Menus and overlays are polished with custom typography, dimming, styled buttons, and smooth presentation.",
+    "raw": "",
+    "latency_seconds": 32.079
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "M1",
+    "score": 0.2,
+    "rationale": "The character moves along the floor in an authored chamber, but no jumping, landing, wall stopping, or pose changes are shown.",
+    "raw": "{\"scores\":{\"M1\":0.2,\"M2\":1.0,\"M3\":0.7,\"M4\":0.0,\"M5\":0.0,\"D1\":0.0,\"D2\":0.0,\"D3\":0.0,\"D4\":0.0,\"V1\":0.9,\"V2\":0.7,\"V3\":0.45,\"V4\":0.0,\"A1\":0.85,\"A2\":0.9,\"A3\":0.55,\"A4\":0.35},\"rationales\":{\"M1\":\"The character moves along the floor in an authored chamber, but no jumping, landing, wall stopping, or pose changes are shown.\",\"M2\":\"The visible timer reaches zero, a rewind wave plays, the player resets to the entrance, and the echo count increases with a ghost appearing.\",\"M3\":\"A translucent echo appears to replay the earlier ground path, but the full recording ending and frozen final state are not clearly shown.\",\"M4\":\"No echo is visibly holding a device while the live player passes through or rides the resulting mechanism.\",\"M5\":\"No paradox, echo blocking, glitch, stability drop, or paradox restart is shown.\",\"D1\":\"The recording is Chamber 02 and does not show the first chamber being solved with one echo.\",\"D2\":\"The lift chamber is visible, but the lift is not shown traveling with the live player riding it to the exit.\",\"D3\":\"No final chamber, two simultaneous plate-holding echoes, laser route, vault opening, or victory screen is shown.\",\"D4\":\"No laser hit, stability-loss failure sequence, defeat screen, or retry flow is shown.\",\"V1\":\"The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and several values update over time.\",\"V2\":\"Echoes are translucent blue and numbered, but only one echo is clearly demonstrated and overlap readability is not fully tested.\",\"V3\":\"Some plates, doors, lift-like elements, and blue links are visible, but device states and exact links are somewhat ambiguous.\",\"V4\":\"No styled title, clear, paradox, defeat, or victory screen appears in the sampled recording.\",\"A1\":\"The gameplay art has a coherent industrial sci-fi palette, tiled vault setting, time effects, and matching HUD styling.\",\"A2\":\"The chamber uses authored tiles, background panels, hazard-like borders, platforms, ladders, arrows, and decorative sci-fi details.\",\"A3\":\"Movement, echo transparency, trail effects, and the rewind wave animate, but player pose animation and device motion are not demonstrated.\",\"A4\":\"The HUD is themed, but no menus, intro cards, result screens, or polished screen transitions are shown.\"}}",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "M2",
+    "score": 1.0,
+    "rationale": "The visible timer reaches zero, a rewind wave plays, the player resets to the entrance, and the echo count increases with a ghost appearing.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "M3",
+    "score": 0.7,
+    "rationale": "A translucent echo appears to replay the earlier ground path, but the full recording ending and frozen final state are not clearly shown.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "M4",
+    "score": 0.0,
+    "rationale": "No echo is visibly holding a device while the live player passes through or rides the resulting mechanism.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "M5",
+    "score": 0.0,
+    "rationale": "No paradox, echo blocking, glitch, stability drop, or paradox restart is shown.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "D1",
+    "score": 0.0,
+    "rationale": "The recording is Chamber 02 and does not show the first chamber being solved with one echo.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "D2",
+    "score": 0.0,
+    "rationale": "The lift chamber is visible, but the lift is not shown traveling with the live player riding it to the exit.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "D3",
+    "score": 0.0,
+    "rationale": "No final chamber, two simultaneous plate-holding echoes, laser route, vault opening, or victory screen is shown.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "D4",
+    "score": 0.0,
+    "rationale": "No laser hit, stability-loss failure sequence, defeat screen, or retry flow is shown.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "V1",
+    "score": 0.9,
+    "rationale": "The HUD clearly shows chamber name, timer, loop count, echo count, and stability, and several values update over time.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "V2",
+    "score": 0.7,
+    "rationale": "Echoes are translucent blue and numbered, but only one echo is clearly demonstrated and overlap readability is not fully tested.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "V3",
+    "score": 0.45,
+    "rationale": "Some plates, doors, lift-like elements, and blue links are visible, but device states and exact links are somewhat ambiguous.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "V4",
+    "score": 0.0,
+    "rationale": "No styled title, clear, paradox, defeat, or victory screen appears in the sampled recording.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "A1",
+    "score": 0.85,
+    "rationale": "The gameplay art has a coherent industrial sci-fi palette, tiled vault setting, time effects, and matching HUD styling.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "A2",
+    "score": 0.9,
+    "rationale": "The chamber uses authored tiles, background panels, hazard-like borders, platforms, ladders, arrows, and decorative sci-fi details.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "A3",
+    "score": 0.55,
+    "rationale": "Movement, echo transparency, trail effects, and the rewind wave animate, but player pose animation and device motion are not demonstrated.",
+    "raw": "",
+    "latency_seconds": 26.763
+  },
+  {
+    "demo_id": "09_rewind_timeout",
+    "requirement_id": "A4",
+    "score": 0.35,
+    "rationale": "The HUD is themed, but no menus, intro cards, result screens, or polished screen transitions are shown.",
+    "raw": "",
+    "latency_seconds": 26.763
+  }
+]

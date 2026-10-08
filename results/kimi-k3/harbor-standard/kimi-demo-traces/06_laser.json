@@ -1,0 +1,11 @@
+{
+  "scenario": "laser_setup",
+  "duration_frames": 240,
+  "events": [
+    {"frame": 3, "type": "key_down", "keycode": "D"},
+    {"frame": 54, "type": "key_up", "keycode": "D"},
+    {"frame": 112, "type": "key_down", "keycode": "D"},
+    {"frame": 132, "type": "key_up", "keycode": "D"},
+    {"frame": 238, "type": "wait"}
+  ]
+}

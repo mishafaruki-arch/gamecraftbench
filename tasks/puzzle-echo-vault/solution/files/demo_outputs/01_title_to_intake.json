@@ -1,0 +1,59 @@
+{
+ "duration_frames": 428,
+ "events": [
+  {
+   "frame": 30,
+   "type": "key_press",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 100,
+   "type": "key_down",
+   "keycode": "E"
+  },
+  {
+   "frame": 101,
+   "type": "key_up",
+   "keycode": "E"
+  },
+  {
+   "frame": 116,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 156,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 168,
+   "type": "key_press",
+   "keycode": "R"
+  },
+  {
+   "frame": 204,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 262,
+   "type": "key_down",
+   "keycode": "W"
+  },
+  {
+   "frame": 266,
+   "type": "key_up",
+   "keycode": "W"
+  },
+  {
+   "frame": 376,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 427,
+   "type": "wait"
+  }
+ ]
+}

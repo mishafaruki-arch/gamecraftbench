@@ -1,0 +1,29 @@
+; Engine configuration file.
+; Echo Vault — a 2D time-loop puzzle platformer.
+
+config_version=5
+
+[application]
+
+config/name="Echo Vault"
+config/description="Break into the vault by cooperating with echoes of your past selves."
+run/main_scene="res://Main.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/resizable=false
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[physics]
+
+common/physics_ticks_per_second=60
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0

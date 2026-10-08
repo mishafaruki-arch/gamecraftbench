@@ -1,0 +1,100 @@
+{
+ "scenario": "chamber3",
+ "duration_frames": 540,
+ "events": [
+  {
+   "frame": 2,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 16,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 22,
+   "type": "key_down",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 38,
+   "type": "key_up",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 52,
+   "type": "key_down",
+   "keycode": "R"
+  },
+  {
+   "frame": 56,
+   "type": "key_up",
+   "keycode": "R"
+  },
+  {
+   "frame": 108,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 172,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 176,
+   "type": "key_down",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 192,
+   "type": "key_up",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 199,
+   "type": "key_down",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 199,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 208,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 215,
+   "type": "key_up",
+   "keycode": "SPACE"
+  },
+  {
+   "frame": 232,
+   "type": "key_down",
+   "keycode": "R"
+  },
+  {
+   "frame": 236,
+   "type": "key_up",
+   "keycode": "R"
+  },
+  {
+   "frame": 369,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 485,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 538,
+   "type": "wait"
+  }
+ ]
+}

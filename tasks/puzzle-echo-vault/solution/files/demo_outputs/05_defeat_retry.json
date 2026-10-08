@@ -1,0 +1,55 @@
+{
+ "scenario": "chamber_3_unstable",
+ "duration_frames": 384,
+ "events": [
+  {
+   "frame": 20,
+   "type": "key_down",
+   "keycode": "E"
+  },
+  {
+   "frame": 21,
+   "type": "key_up",
+   "keycode": "E"
+  },
+  {
+   "frame": 50,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 100,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 142,
+   "type": "key_down",
+   "keycode": "E"
+  },
+  {
+   "frame": 143,
+   "type": "key_up",
+   "keycode": "E"
+  },
+  {
+   "frame": 172,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 222,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 294,
+   "type": "key_press",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 383,
+   "type": "wait"
+  }
+ ]
+}

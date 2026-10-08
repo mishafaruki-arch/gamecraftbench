@@ -1,0 +1,30 @@
+{
+ "scenario": "paradox_setup",
+ "duration_frames": 300,
+ "events": [
+  {
+   "frame": 5,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 60,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 130,
+   "type": "key_down",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 134,
+   "type": "key_up",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 299,
+   "type": "wait"
+  }
+ ]
+}

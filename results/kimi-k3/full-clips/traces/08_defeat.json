@@ -1,0 +1,30 @@
+{
+ "scenario": "defeat_setup",
+ "duration_frames": 190,
+ "events": [
+  {
+   "frame": 5,
+   "type": "key_down",
+   "keycode": "D"
+  },
+  {
+   "frame": 60,
+   "type": "key_up",
+   "keycode": "D"
+  },
+  {
+   "frame": 110,
+   "type": "key_down",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 114,
+   "type": "key_up",
+   "keycode": "ENTER"
+  },
+  {
+   "frame": 188,
+   "type": "wait"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "scenario": "chamber2_quick",
+  "duration_frames": 360,
+  "events": [
+    {"frame": 3, "type": "key_down", "keycode": "D"},
+    {"frame": 40, "type": "key_up", "keycode": "D"},
+    {"frame": 260, "type": "key_down", "keycode": "A"},
+    {"frame": 300, "type": "key_up", "keycode": "A"},
+    {"frame": 358, "type": "wait"}
+  ]
+}
